@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/cover-spread.png" alt="封面预览" width="80%"/>
+  <img src="images/logo.svg" alt="第一性原理·中考备考指南" width="80%"/>
 </p>
 
 <p align="center">
@@ -8,8 +8,6 @@
   <a href="#-下载"><strong>下载</strong></a> ·
   <a href="#-许可证"><strong>许可证</strong></a>
 </p>
-
-# 「第一性原理」中考备考指南
 
 <p align="center">
   <strong>9 本 PDF · 语文+英语 · 2027 中考适用</strong>

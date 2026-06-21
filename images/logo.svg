@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8f6f0"/>
+      <stop offset="100%" stop-color="#f0ede4"/>
+    </linearGradient>
+    <linearGradient id="gold-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c4a265" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#c4a265"/>
+      <stop offset="80%" stop-color="#c4a265"/>
+      <stop offset="100%" stop-color="#c4a265" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="200" fill="url(#bg)" rx="8"/>
+
+  <!-- Subtle border -->
+  <rect x="0.5" y="0.5" width="799" height="199" rx="8" fill="none" stroke="#d4c8a8" stroke-width="1" opacity="0.5"/>
+
+  <!-- Left accent: golden square -->
+  <rect x="45" y="55" width="8" height="90" rx="4" fill="#c4a265" opacity="0.8"/>
+
+  <!-- Main text -->
+  <text x="75" y="92" font-family="serif" font-size="42" font-weight="700" fill="#1a2f5a" letter-spacing="4">
+    第一性原理
+  </text>
+
+  <!-- Subtitle line: gold rule -->
+  <rect x="75" y="110" width="360" height="2" rx="1" fill="url(#gold-line)"/>
+
+  <text x="75" y="140" font-family="serif" font-size="20" fill="#64748b" letter-spacing="8">
+    中考备考指南
+  </text>
+
+  <!-- Right side: three vertical dots (symbolic: layers of understanding) -->
+  <g transform="translate(680, 55)">
+    <circle cx="0" cy="0" r="6" fill="#1a2f5a" opacity="0.85"/>
+    <circle cx="0" cy="28" r="6" fill="#c4a265" opacity="0.85"/>
+    <circle cx="0" cy="56" r="6" fill="#1a2f5a" opacity="0.45"/>
+    <circle cx="0" cy="84" r="6" fill="#1a2f5a" opacity="0.2"/>
+  </g>
+
+  <!-- Thin lines connecting dots (essence → application) -->
+  <line x1="680" y1="61" x2="680" y2="83" stroke="#c4a265" stroke-width="1.5" opacity="0.4"/>
+  <line x1="680" y1="89" x2="680" y2="111" stroke="#94a3b8" stroke-width="1.5" opacity="0.3"/>
+  <line x1="680" y1="117" x2="680" y2="139" stroke="#94a3b8" stroke-width="1.5" opacity="0.15"/>
+
+  <!-- Bottom tagline -->
+  <text x="400" y="178" font-family="sans-serif" font-size="12" fill="#94a3b8" text-anchor="middle" letter-spacing="3">
+    悟透本质 · 以不变应万变
+  </text>
+</svg>
