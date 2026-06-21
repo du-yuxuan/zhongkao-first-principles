@@ -56,11 +56,11 @@
 ### 语文系列
 
 <p align="center">
-  <img src="images/语文-文学类文本阅读.png" alt="文学类文本阅读" width="18%"/>
-  <img src="images/语文-非连续性文本阅读.png" alt="非连续性文本阅读" width="18%"/>
-  <img src="images/语文-文言文阅读.png" alt="文言文阅读" width="18%"/>
-  <img src="images/语文-积累运用.png" alt="积累运用" width="18%"/>
-  <img src="images/语文-作文.png" alt="作文" width="18%"/>
+  <a href="output/语文·文学类文本阅读全指南.pdf"><img src="images/语文-文学类文本阅读.png" alt="文学类文本阅读" width="18%"/></a>
+  <a href="output/语文·非连续性文本阅读全指南.pdf"><img src="images/语文-非连续性文本阅读.png" alt="非连续性文本阅读" width="18%"/></a>
+  <a href="output/语文·文言文阅读全指南.pdf"><img src="images/语文-文言文阅读.png" alt="文言文阅读" width="18%"/></a>
+  <a href="output/语文·积累运用全指南.pdf"><img src="images/语文-积累运用.png" alt="积累运用" width="18%"/></a>
+  <a href="output/语文·作文全指南.pdf"><img src="images/语文-作文.png" alt="作文" width="18%"/></a>
 </p>
 
 | 书名 | 核心公式 | 你会学到 |
@@ -74,10 +74,10 @@
 ### 英语系列
 
 <p align="center">
-  <img src="images/英语-听力.png" alt="听力" width="22%"/>
-  <img src="images/英语-语法.png" alt="语法" width="22%"/>
-  <img src="images/英语-阅读.png" alt="阅读" width="22%"/>
-  <img src="images/英语-写作.png" alt="写作" width="22%"/>
+  <a href="output/英语·听力全指南.pdf"><img src="images/英语-听力.png" alt="听力" width="22%"/></a>
+  <a href="output/英语·语法总指南.pdf"><img src="images/英语-语法.png" alt="语法" width="22%"/></a>
+  <a href="output/英语·阅读总指南.pdf"><img src="images/英语-阅读.png" alt="阅读" width="22%"/></a>
+  <a href="output/英语·写作全指南.pdf"><img src="images/英语-写作.png" alt="写作" width="22%"/></a>
 </p>
 
 | 书名 | 核心公式 | 你会学到 |
