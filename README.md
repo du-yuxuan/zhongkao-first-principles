@@ -12,14 +12,14 @@
 # 「第一性原理」中考备考指南
 
 <p align="center">
-  <strong>9 本 PDF · 语文+英语 · 2027 中考适用</strong>
+  <strong>11 本 PDF · 语数英道史 · 2027 中考适用</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/du-yuxuan/zhongkao-first-principles/stargazers">
     <img src="https://img.shields.io/github/stars/du-yuxuan/zhongkao-first-principles?style=social" alt="Stars"/>
   </a>
-  <img src="https://img.shields.io/badge/books-9-blue" alt="9 books"/>
+  <img src="https://img.shields.io/badge/books-11-blue" alt="11 books"/>
   <img src="https://img.shields.io/badge/subject-语文%20%7C%20英语-green" alt="Chinese & English"/>
   <img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" alt="License"/>
 </p>
@@ -73,6 +73,13 @@
 | **积累运用** | 科学记忆 + 系统归类 | 间隔重复/主动回忆/错题本使用法 + 字音字形成语病句标点默写全模块 |
 | **作文** | 被看见 + 被理解 + 被打动 | 审题逐词分析法、六种叙事结构（含双线结构）、满分范文拆解 |
 
+### 道德与法治 & 历史
+
+| 书名 | 核心公式 | 你会学到 |
+|------|---------|---------|
+| **道德与法治·大题** | 审设问→提信息→联课本→组答案 | 是什么/为什么/怎么办/评析题/综合探究，五大题型体系，SOLO评分应对 |
+| **历史·大题** | 材料提取 + 课本关联 + 逻辑组织 | 材料解析/论述题/开放探究，论从史出，三等分层评分满分策略 |
+
 ### 英语系列
 
 <p align="center">
@@ -102,8 +109,8 @@
 | **数学** | — | 代数/几何/函数/概率统计四大模块 |
 | **物理** | — | 力学/电学/热学/光学，实验探究专项 |
 | **化学** | — | 物质构成/化学方程式/溶液/酸碱盐 |
-| **历史** | — | 中国古代史/近现代史/世界史，材料题专项 |
-| **道德与法治** | — | 国情/法律/心理/道德四大板块 |
+| **历史** | 1 本（大题） | 选择题专项、时空观念专项 |
+| **道德与法治** | 1 本（大题） | 选择题专项 |
 
 > **全部科目都遵循同一套方法论**：从第一性原理出发 → 提炼核心公式 → 推导题型解法 → 实战演练验证。
 
