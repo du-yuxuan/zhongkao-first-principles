@@ -1,0 +1,19 @@
+# 源文件（不开源）
+中考语文·*.md
+中考英语·*.md
+qrcode.png
+
+# 构建/转换工具
+*.py
+archive/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
