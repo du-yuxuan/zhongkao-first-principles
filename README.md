@@ -9,13 +9,15 @@
   <a href="#-许可证"><strong>许可证</strong></a>
 </p>
 
+# 「第一性原理」中考备考指南
+
 <p align="center">
   <strong>9 本 PDF · 语文+英语 · 2027 中考适用</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/duyuxuan/zhongkao-first-principles/stargazers">
-    <img src="https://img.shields.io/github/stars/duyuxuan/zhongkao-first-principles?style=social" alt="Stars"/>
+  <a href="https://github.com/du-yuxuan/zhongkao-first-principles/stargazers">
+    <img src="https://img.shields.io/github/stars/du-yuxuan/zhongkao-first-principles?style=social" alt="Stars"/>
   </a>
   <img src="https://img.shields.io/badge/books-9-blue" alt="9 books"/>
   <img src="https://img.shields.io/badge/subject-语文%20%7C%20英语-green" alt="Chinese & English"/>
@@ -124,20 +126,17 @@
 
 ## 📥 下载
 
-所有 PDF 在 `output/` 目录下，可直接下载或打印：
+👉 **[前往 Releases 页面下载最新版本](https://github.com/du-yuxuan/zhongkao-first-principles/releases)**
 
-```
-output/
-├── 语文·文学类文本阅读全指南.pdf    (2.1 MB)
-├── 语文·非连续性文本阅读全指南.pdf  (0.7 MB)
-├── 语文·文言文阅读全指南.pdf        (1.0 MB)
-├── 语文·积累运用全指南.pdf          (0.9 MB)
-├── 语文·作文全指南.pdf              (0.9 MB)
-├── 英语·听力全指南.pdf              (1.9 MB)
-├── 英语·语法总指南.pdf              (0.7 MB)
-├── 英语·阅读总指南.pdf              (2.0 MB)
-└── 英语·写作全指南.pdf              (0.8 MB)
-```
+所有 PDF 均可在 [Releases](https://github.com/du-yuxuan/zhongkao-first-principles/releases) 中单独下载，选择你需要的科目即可。每次内容更新都会发布新版本。
+
+| 语文系列 | 英语系列 |
+|---------|---------|
+| 文学类文本阅读全指南 (2.1 MB) | 听力全指南 (1.9 MB) |
+| 非连续性文本阅读全指南 (0.7 MB) | 语法总指南 (0.7 MB) |
+| 文言文阅读全指南 (1.0 MB) | 阅读总指南 (2.0 MB) |
+| 积累运用全指南 (0.9 MB) | 写作全指南 (0.8 MB) |
+| 作文全指南 (0.9 MB) | — |
 
 ---
 
@@ -196,5 +195,5 @@ output/
 ---
 
 <p align="center">
-  <sub>悟透本质 · 以不变应万变</sub>
+  <strong><span style="font-size: 14pt;">悟透本质 · 以不变应万变</span></strong>
 </p>

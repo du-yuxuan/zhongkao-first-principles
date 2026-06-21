@@ -6,6 +6,7 @@ qrcode.png
 # 构建/转换工具
 *.py
 archive/
+BUILD.md
 
 # Python
 __pycache__/
